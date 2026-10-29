@@ -1,0 +1,17 @@
+{
+  "name": "melvor-selfhost",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serves Melvor Idle (Steam) to a regular browser, with ownership checked against the local Steam client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "steamworks.js": "0.3.1"
+  }
+}

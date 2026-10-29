@@ -1,0 +1,21 @@
+[2026-10-29T18:33:43.497Z] Steam init failed: failed to init the steamworks API. Is Steam running and signed in to an account that owns Melvor Idle?
+[2026-10-29T18:33:43.509Z] Melvor self-host listening on http://0.0.0.0:8787 (upstream https://steam.melvoridle.com)
+[2026-10-29T18:34:28.845Z] Steam init failed: failed to init the steamworks API. Is Steam running and signed in to an account that owns Melvor Idle?
+[2026-10-29T18:34:28.857Z] Melvor self-host listening on http://0.0.0.0:8787 (upstream https://steam.melvoridle.com)
+[2026-10-29T18:35:12.081Z] C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\node_modules\steamworks.js\dist\win64\steam_api64.dll is not signed by Valve; refusing to use it for the ownership check.
+[2026-10-29T18:35:43.864Z] C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\node_modules\steamworks.js\dist\win64\steam_api64.dll is not signed by Valve; refusing to use it for the ownership check.
+[2026-10-29T18:35:45.782Z] C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\node_modules\steamworks.js\dist\win64\steam_api64.dll is not signed by Valve; refusing to use it for the ownership check.
+[2026-10-29T18:35:46.722Z] C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\node_modules\steamworks.js\dist\win64\steam_api64.dll is not signed by Valve; refusing to use it for the ownership check.
+[2026-10-29T18:35:47.577Z] C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\node_modules\steamworks.js\dist\win64\steam_api64.dll is not signed by Valve; refusing to use it for the ownership check.
+[2026-10-29T18:35:54.306Z] C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\node_modules\steamworks.js\dist\win64\steam_api64.dll is not signed by Valve; refusing to use it for the ownership check.
+[2026-10-29T18:37:00.319Z] Steam init failed: Cannot find module './dist/win64/steamworksjs.win32-x64-msvc.node'
+Require stack:
+- C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\node_modules\steamworks.js\index.js
+- C:\Users\DJLie\Games\Melvor.Idle.v1.3.1\selfhost\server.js. Is Steam running and signed in to an account that owns Melvor Idle?
+[2026-10-29T18:37:00.330Z] Melvor self-host listening on http://0.0.0.0:8787 (upstream https://steam.melvoridle.com)
+[2026-10-29T18:37:45.485Z] Steam initialized as MRGoldberg (76561197960287930)
+[2026-10-29T18:37:45.487Z]   Melvor Idle (1267910): owned
+[2026-10-29T18:37:45.487Z]   Throne of the Herald (2055140): owned
+[2026-10-29T18:37:45.488Z]   Atlas of Discovery (2492940): owned
+[2026-10-29T18:37:45.488Z]   Into the Abyss (2860590): owned
+[2026-10-29T18:37:45.497Z] Melvor self-host listening on http://0.0.0.0:8787 (upstream https://steam.melvoridle.com)
